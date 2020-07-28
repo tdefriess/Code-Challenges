@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/linked-list-cycle-ii/
+# Difficulty: Medium
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):

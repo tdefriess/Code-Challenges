@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/contains-duplicate/
+# Difficulty: Easy
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         # for each item in the list, if not in set, add to set, else return true
